@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">92</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f9fb263c-a9f2-40d5-ba7f-43470e584739</dc:identifier>
+        <dc:title>Crime and Punishment</dc:title>
+        <dc:creator opf:file-as="Dostoevsky, Fyodor &amp; Dostoevskij, Fedor Mihajlovič" opf:role="aut">Fyodor Dostoevsky</dc:creator>
+        <dc:creator opf:file-as="Dostoevsky, Fyodor &amp; Dostoevskij, Fedor Mihajlovič" opf:role="aut">Fedor Mihajlovič Dostoevskij</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1967-07-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Jessie Coulson's translation provides the text for the Third Edition of this acclaimed Norton Critical Edition.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Airmont</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780804901451</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Kw8VQwAACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Psychological</dc:subject>
+        <dc:subject>City Life</dc:subject>
+        <dc:subject>Free Planet PDF eBooks -- an assortment of some of the most popular classics. Free!</dc:subject>
+        <dc:subject>free</dc:subject>
+        <dc:subject>PDF</dc:subject>
+        <dc:subject>ebook</dc:subject>
+        <dc:subject>ebooks</dc:subject>
+        <dc:subject>Planet PDF</dc:subject>
+        <dc:subject>download</dc:subject>
+        <dc:subject>classic</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <meta name="calibre:timestamp" content="2025-07-11T15:43:08.556893+00:00"/>
+        <meta name="calibre:title_sort" content="Crime and Punishment"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

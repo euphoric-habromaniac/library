@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">84</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d0ecfd5b-1ccd-4f08-9613-7686c62eb0fb</dc:identifier>
+        <dc:title>White Noise</dc:title>
+        <dc:creator opf:file-as="Delillo, Don" opf:role="aut">Don Delillo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-12-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The National Book Award-winning classic from the author of Underworld and Libra, soon to be a major motion picture starring Adam Driver and Greta GerwigWhite Noise is the story of Jack, his wife, Babette, and their four ultramodern offspring. They live in a college town where Jack is Professor of Hitler Studies (and conceals the fact that he does not speak a word of German), and Babette teaches posture and volunteers by reading tabloids to a group of elderly shut-ins. They are happy enough, until a deadly toxic accident and Babette's addiction to an experimental drug make Jake question everything. White Noise is considered a postmodern classic and its unfolding of themes of consumerism, family and divorce, and technology as a deadly threat have attracted the attention of literary scholars since its publication. This Viking Critical Library edition, prepared by scholar Mark Osteen, is the only edition of White Noise that contains the entire text along with an extensive critical apparatus, including a critical introduction, selected essays on the author, the work, and its themes, reviews, a chronology of DeLillo's life and work, a list of discussion topics, and a selected bibliography.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B001R11CAI</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0140274987</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780140274981</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">PoVaAAAAMAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Literary Criticism</dc:subject>
+        <dc:subject>American</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2025-07-11T15:43:07.503777+00:00"/>
+        <meta name="calibre:title_sort" content="White Noise"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

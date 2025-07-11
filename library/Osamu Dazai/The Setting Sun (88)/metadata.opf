@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">88</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">01aac709-662f-44cf-b52c-07345aab4666</dc:identifier>
+        <dc:title>The Setting Sun</dc:title>
+        <dc:creator opf:file-as="Dazai, Osamu" opf:role="aut">Osamu Dazai</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1968-01-16T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This powerful novel of a nation in social and moral crisis was first published by New Directions in 1956. Set in the early postwar years, it probes the destructive effects of war and the transition from a feudal Japan to an industrial society. Ozamu Dazai died, a suicide, in 1948. But the influence of his book has made "people of the setting sun" a permanent part of the Japanese language, and his heroine, Kazuko, a young aristocrat who deliberately abandons her class, a symbol of the anomie which pervades so much of the modern world.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>New Directions Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780811224253</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">tYLyAwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>World Literature</dc:subject>
+        <dc:subject>Asia (General)</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>20th Century</dc:subject>
+        <dc:subject>Post-World War II</dc:subject>
+        <dc:subject>Psychological</dc:subject>
+        <dc:subject>Coming of Age</dc:subject>
+        <meta name="calibre:timestamp" content="2025-07-11T15:43:08.046886+00:00"/>
+        <meta name="calibre:title_sort" content="Setting Sun, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

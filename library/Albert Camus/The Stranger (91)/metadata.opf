@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">91</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">97a91837-e85b-455b-b97f-a11b1ecab889</dc:identifier>
+        <dc:title>The Stranger</dc:title>
+        <dc:creator opf:file-as="Camus, Albert" opf:role="aut">Albert Camus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1982-07-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Many of the earliest books, particularly those dating back to the 1900s and before, are now extremely scarce and increasingly expensive. Hesperides Press are republishing these classic works in affordable, high quality, modern editions, using the original text and artwork.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>University Press of America</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780819121424</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ajIYAQAAMAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Psychological</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>ST</dc:subject>
+        <dc:subject>CS</dc:subject>
+        <meta name="calibre:timestamp" content="2025-07-11T15:43:08.433178+00:00"/>
+        <meta name="calibre:title_sort" content="Stranger, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

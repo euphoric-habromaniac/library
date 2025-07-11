@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e72456f5-9de9-4b9c-b4af-1c27be18697c</dc:identifier>
+        <dc:title>Pragmatic Programmer, The: From Journeyman to Master</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-10-17T12:44:26+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:timestamp" content="2025-07-11T15:42:59.033795+00:00"/>
+        <meta name="calibre:title_sort" content="Pragmatic Programmer, The: From Journeyman to Master"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

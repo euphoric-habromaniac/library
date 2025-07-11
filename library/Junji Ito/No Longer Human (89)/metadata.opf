@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">89</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b28ae2cc-1e1c-4860-802d-c2dd77b2ab10</dc:identifier>
+        <dc:title>No Longer Human</dc:title>
+        <dc:creator opf:file-as="Ito, Junji" opf:role="aut">Junji Ito</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-16T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Mine has been a life of much shame. I can’t even guess myself what it must be to live the life of a human being. Plagued by a maddening anxiety, the terrible disconnect between his own concept of happiness and the joy of the rest of the world, Yozo Oba plays the clown in his dissolute life, holding up a mask for those around him as he spirals ever downward, locked arm-in-arm with death. Osamu Dazai’s immortal—and supposedly autobiographical—work of Japanese literature, is perfectly adapted here into a manga by Junji Ito. The imagery wrenches open the text of the novel one line at a time to sublimate Yozo’s mental landscape into something even more delicate and grotesque. This is the ultimate in art by Ito, proof that nothing can surpass the terror of the human psyche. -- VIZ Media&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>VIZ Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781974715794</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">YpLBDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comics &amp; Graphic Novels</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <meta name="calibre:timestamp" content="2025-07-11T15:43:08.143584+00:00"/>
+        <meta name="calibre:title_sort" content="No Longer Human"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

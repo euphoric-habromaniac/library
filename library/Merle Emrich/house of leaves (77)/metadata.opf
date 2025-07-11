@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">77</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f799041b-6a50-481e-937c-b7b568ca129c</dc:identifier>
+        <dc:title>house of leaves</dc:title>
+        <dc:creator opf:file-as="Emrich, Merle" opf:role="aut">Merle Emrich</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-16T11:27:41+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:timestamp" content="2025-07-11T15:43:06.629098+00:00"/>
+        <meta name="calibre:title_sort" content="house of leaves"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

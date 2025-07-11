@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">80</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dbc0e22e-31d8-44fd-ac7e-b10f4ad759a2</dc:identifier>
+        <dc:title>MILAN KUNDERA</dc:title>
+        <dc:creator opf:file-as="___" opf:role="aut">___</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-10T10:54:48+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:timestamp" content="2025-07-11T15:43:07.003468+00:00"/>
+        <meta name="calibre:title_sort" content="MILAN KUNDERA"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

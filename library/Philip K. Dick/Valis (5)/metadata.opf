@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">22541b4b-1d3c-4339-9f64-a40dbca3010a</dc:identifier>
+        <dc:title>Valis</dc:title>
+        <dc:creator opf:file-as="Dick, Philip K." opf:role="aut">Philip K. Dick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">urn:uuid:eeb3a9f9-9724-4b3c-8bfd-c2f983ee5e96</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>sf</dc:subject>
+        <meta name="calibre:timestamp" content="2025-07-11T15:42:57.731529+00:00"/>
+        <meta name="calibre:title_sort" content="Valis"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">79</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ebff4ce4-5081-4346-bbe1-cc86c5f363ac</dc:identifier>
+        <dc:title>The waste land</dc:title>
+        <dc:creator opf:file-as="Eliot, T. S. (Thomas Stearns), 1888-1965" opf:role="aut">Eliot, T. S. (Thomas Stearns), 1888-1965</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-28T21:12:22+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>http://archive.org/details/wasteland01elio</dc:subject>
+        <meta name="calibre:timestamp" content="2025-07-11T15:43:06.908594+00:00"/>
+        <meta name="calibre:title_sort" content="waste land, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8fc11fb-bc39-48d5-8523-a235a44987bb</dc:identifier>
+        <dc:title>The antichrist,</dc:title>
+        <dc:creator opf:file-as="Nietzsche, Friedrich Wilhelm, 1844-1900" opf:role="aut">Nietzsche, Friedrich Wilhelm, 1844-1900</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-04T19:35:03+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>http://archive.org/details/antichrist02niet</dc:subject>
+        <meta name="calibre:timestamp" content="2025-07-11T15:42:58.635674+00:00"/>
+        <meta name="calibre:title_sort" content="antichrist,, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

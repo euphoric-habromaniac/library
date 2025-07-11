@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">87</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">19f1659e-68c0-47ad-90fe-220cb5f3bfac</dc:identifier>
+        <dc:title>The Steppenwolf</dc:title>
+        <dc:creator opf:file-as="Hesse, Hermann" opf:role="aut">Hermann Hesse</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-24T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The quest for self-discovery never ends, especially for Harry Haller--better known as the Steppenwolf. After a life spent in self-imposed isolation, Harry meets the mysterious Hermine and becomes captivated by her intoxicating power. Through their nighttime adventures, the Steppenwolf experiences the decadent underbelly of the bourgeois society he always despised. Harry becomes a man divided--lost in a surreal underground world of pleasure and set on a collision course with his innermost desires. There has never been a translation that fully captures the essence of Hermann Hesse's own spiritual questioning until now. Kurt Beals restores the original meaning of this hallucinatory German tale in a recognizably modern voice. Beals's expert introduction traces the impact of The Steppenwolf for readers seeking meaning during the upheaval of world conflicts, the onslaught of new technologies, and life's uncertainties.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>W. W. Norton, Incorporated</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781324105992</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">aJG10AEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Psychological</dc:subject>
+        <dc:subject>World Literature</dc:subject>
+        <dc:subject>Germany</dc:subject>
+        <dc:subject>20th Century</dc:subject>
+        <meta name="calibre:timestamp" content="2025-07-11T15:43:07.855811+00:00"/>
+        <meta name="calibre:title_sort" content="Steppenwolf, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

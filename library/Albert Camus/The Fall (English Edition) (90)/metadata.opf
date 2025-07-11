@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">90</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a74b9859-0a55-4bcb-8e8c-a12022291df8</dc:identifier>
+        <dc:title>The Fall (English Edition)</dc:title>
+        <dc:creator opf:file-as="Camus, Albert" opf:role="aut">Albert Camus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-07T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The novel opens with Clamence sitting in the bar, Mexico City, casually talking to a stranger - the reader, some would say - about the proper way to order a drink; for here, despite the cosmopolitan nature of Amsterdam, the bartender refuses to respond to anything other than Dutch. Thus, Clamence serves as interpreter and he and the stranger, having discovered that they are fellow compatriots who, moreover, both hail from Paris, begin discussing more substantive matters.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>CreateSpace Independent Publishing Platform</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781542992404</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">1sCHAQAACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Literary Collections</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2025-07-11T15:43:08.339779+00:00"/>
+        <meta name="calibre:title_sort" content="Fall (English Edition), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

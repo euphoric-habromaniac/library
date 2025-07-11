@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">67</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f4995a6-3a0b-410c-b2d2-cfd2954f68fe</dc:identifier>
+        <dc:title>The Poetry of Rainer Maria Rilke</dc:title>
+        <dc:creator opf:file-as="Rilke, Rainer Maria" opf:role="aut">Rainer Maria Rilke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-11T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Rainer Maria Rilke, was born in Prague, the capital of Bohemia, in 1875. He studied in Prague and Munich before travelling widely. In 1902 he arrived in Paris, where he subsequently became Auguste Rodin’s secretary. It was here that he developed the more objective style of his collection New Poems (Neue Gedichte, 1907).During the winter of 1911/1912 Rainer Maria Rilke was invited to Castle Duino, near Trieste, where he began the Duino Elegies. The work would, however, remain unfinished for a decade. Creatively muted by bouts of depression, in part caused by the First World War, Rilke did not complete the Elegies until 1922. His Sonnets to Orpheus were written in the same year during a three-week paroxysm of creativity. The Duino Elegies and Sonnets to Orpheus deploy and extend both his early lyrical gifts and subsequently more objective formal style in a poetry of philosophical and spiritual depth, centred around a view of life and death as forming a complete whole.&lt;/p&gt;</dc:description>
+        <dc:publisher>Poetry In Translation</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poetry Translation</dc:subject>
+        <meta name="calibre:timestamp" content="2025-07-11T15:43:04.951976+00:00"/>
+        <meta name="calibre:title_sort" content="Poetry of Rainer Maria Rilke, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">85</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9de94313-203a-4787-8475-03e55b5ec479</dc:identifier>
+        <dc:title>Hunger (World's Classics Series)</dc:title>
+        <dc:creator opf:file-as="Hamsun, Knut &amp; Egerton, George" opf:role="aut">Knut Hamsun</dc:creator>
+        <dc:creator opf:file-as="Hamsun, Knut &amp; Egerton, George" opf:role="aut">George Egerton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;In his groundbreaking novel "Hunger," Knut Hamsun crafts a visceral exploration of psychological and existential turmoil, employing a stream-of-consciousness narrative style that immerses readers in the mind of a struggling writer in late 19th-century Oslo. The protagonist's erratic thoughts and vivid imagery reflect the raw, chaotic experience of starvation, both literal and metaphorical, as he grapples with alienation, desperation, and the yearning for creative expression. This seminal work not only heralds modernist themes but also critiques the socio-economic conditions of Hamsun's time, ultimately probing the complexities of human desire and identity. Knut Hamsun, celebrated for his rich contribution to literature and a controversial figure due to his political views, drew on his own experiences of poverty and aspiration to shape the compelling narrative of "Hunger. &lt;/p&gt;
+&lt;p&gt;" His explorations of mental states and existential dilemmas are deeply rooted in his life experiences, providing an authentic lens into the struggles of the individual against societal expectations. Hamsun's innovative techniques and psychological insights have significantly influenced later writers, marking him as a precursor to existentialist literature. "Hunger" is a must-read for those interested in the human psyche and modernist literature. Hamsun's intricate portrayal of personal suffering and societal critique invites readers to engage profoundly with the text, making it a pertinent exploration of loneliness and ambition that resonates across generations. This edition in the World's Classics Series further enhances its accessibility, ensuring its lasting legacy in the canon of world literature.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Chicago Review Press Incorporated DBA Indepe</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788027273577</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">gYED0AEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Psychological</dc:subject>
+        <meta name="calibre:timestamp" content="2025-07-11T15:43:07.618014+00:00"/>
+        <meta name="calibre:title_sort" content="Hunger (World's Classics Series)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

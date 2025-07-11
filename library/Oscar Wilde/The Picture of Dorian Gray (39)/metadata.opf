@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c6f14a85-2d25-49b8-85a2-688820e41ca9</dc:identifier>
+        <dc:title>The Picture of Dorian Gray</dc:title>
+        <dc:creator opf:file-as="Wilde, Oscar" opf:role="aut">Oscar Wilde</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-06-30T06:12:11+00:00</dc:date>
+        <dc:description>Free Planet PDF eBooks -- an assortment of some of the most popular classics. Free!</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>free</dc:subject>
+        <dc:subject>PDF</dc:subject>
+        <dc:subject>ebook</dc:subject>
+        <dc:subject>ebooks</dc:subject>
+        <dc:subject>Planet PDF</dc:subject>
+        <dc:subject>download</dc:subject>
+        <dc:subject>classic</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <meta name="calibre:timestamp" content="2025-07-11T15:43:01.209692+00:00"/>
+        <meta name="calibre:title_sort" content="Picture of Dorian Gray, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

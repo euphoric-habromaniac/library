@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">93</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a61426f6-f664-4137-a133-38772ffbbd01</dc:identifier>
+        <dc:title>Zuleika Dobson</dc:title>
+        <dc:creator opf:file-as="Beerbohm, Max" opf:role="aut">Max Beerbohm</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-09T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Zuleika Dobson, full title Zuleika Dobson, or, an Oxford love story, is the only novel by Max Beerbohm, a satire of undergraduate life at Oxford published in 1911. It includes the famous line ""Death cancels all engagements"" and presents a corrosive view of Edwardian Oxford. In 1998, the Modern Library ranked Zuleika Dobson 59th on its list of the 100 best English-language novels of the 20th century. The book largely employs a third-person narrator limited to the character of Zuleika (pronounced ""Zu-lee-ka""), then shifting to that of the Duke, then halfway through the novel suddenly becoming a first-person narrator who claims inspiration from the Greek Muse Clio, with his all-seeing narrative perspective provided by Zeus. This allows the narrator to also see the ghosts of notable historical visitors to Oxford, who are present but otherwise invisible to the human characters at certain times in the novel, adding an element of the supernatural.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Repro India Limited</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789390600953</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">surozgEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Humorous</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Coming of Age</dc:subject>
+        <dc:subject>https://archive.org/details/zuleikadobson00beeruoft</dc:subject>
+        <meta name="calibre:timestamp" content="2025-07-11T15:43:08.619621+00:00"/>
+        <meta name="calibre:title_sort" content="Zuleika Dobson"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
